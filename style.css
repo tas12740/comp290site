@@ -1,3 +1,10 @@
 p:first-letter {
-    font-weight: 200%;
+    font-size: 200%;
 }
+
+body {
+    background-color: #0A122A;
+    color: #FBFAF8;
+}
+
+
